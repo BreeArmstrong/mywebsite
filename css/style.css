@@ -1,0 +1,142 @@
+.about{
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
+body {
+    margin: 0;
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    background-color: #393e46;
+    color: white;
+}
+.btn {
+    font-family: 'Courier Prime', monospace;
+    font-weight: normal;
+    text-decoration: none;
+    color: #FFFCFD !important;
+    font-size: 20px;
+    text-shadow: 1px 1px 0px #8973DE;
+    box-shadow: 1px 1px 1px #CEB1F9;
+    padding: 10px 25px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: 1px solid #6853A3;
+    background: #926BEE;
+    background: linear-gradient(top,  #BE7EEE,  #6E36CF);
+    background: -ms-linear-gradient(top,  #BE7EEE,  #6E36CF);
+    background: -webkit-gradient(linear, left top, left bottom, from(#BE7EEE), to(#6E36CF));
+    background: -moz-linear-gradient(top,  #BE7EEE,  #6E36CF);
+}
+.btn:hover {
+    color: #FFFFFF !important;
+    background: #8340CF;
+    background: linear-gradient(top,  #8E44CF,  #BD85EE);
+    background: -ms-linear-gradient(top,  #8E44CF,  #BD85EE);
+    background: -webkit-gradient(linear, left top, left bottom, from(#8E44CF), to(#BD85EE));
+    background: -moz-linear-gradient(top,  #8E44CF,  #BD85EE);
+}
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+h1 {
+    margin: 0 auto;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: normal;
+    color: #e497cd;
+    font-size: 3.5rem;
+
+}
+h2 {
+    color: #e497cd;
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+h3 {
+    color: #aa96da;
+    font-weight: normal;
+}
+span {
+    font-family: 'Courier Prime', monospace;
+}
+#hello {
+    font-family: 'Courier Prime', monospace;
+}
+hr {
+    margin: 100px auto;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width: 10px;
+    width: 6%;
+}
+.html {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+#icons {
+    font-size: 10px;
+}
+.js {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.profile{
+    padding-top: 1%;
+}
+.profile-pic {
+    height: 300px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.bottom-container {
+    background-color: #303841;
+    padding: 50px 0 20px;
+}
+.top {
+    height: 600px;
+    background-image: url("https://cdn.discordapp.com/attachments/327022451949305857/660048542576148480/twitch-2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 10px;
+    background-position-y: -70px;
+}
+.text-header {
+    position: relative;
+    height: 100px;
+    opacity: 75%;
+    background-color: black;
+    color: white;
+    padding: 250px;
+}
+.text-header h2 {
+    color: white;
+}
+a:hover {
+    color: white;
+}
+a {
+    font-family: 'Bree Serif', serif;
+    color: #e497cd;
+    text-decoration: none;
+    font-weight: normal;
+}
+.cr {
+    color: #e497cd;
+    font-size: .75rem;
+}
+.footer-link {
+    margin: 10px 20px;
+    font-weight: normal;
+}
